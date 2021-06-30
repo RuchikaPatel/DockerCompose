@@ -9,3 +9,7 @@ Be sure to setup POSTGRES_PASSWORD on postgres image
 Walk though Drupal config in browser at http://localhost:8080
 
 Docker Compose: https://docs.docker.com/compose/
+
+
+docker compose up - to set containers/volume/network
+docker compose down - to stop containers/volume/network
